@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FINALAPP</string>
+    <string name="action_manage_breeds">Manage Breeds</string>
+    <string name="action_manage_types">Manage Types</string>
+</resources>

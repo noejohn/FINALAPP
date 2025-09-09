@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_manage_breeds"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/action_manage_breeds"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_manage_types"
+        android:title="@string/action_manage_types"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:showAsAction="never" />
+</menu>
+
